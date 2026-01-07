@@ -8,7 +8,7 @@ const Home = () => {
       {/* Hero Section */}
       <div className="text-center mb-16">
         <h1 className="text-5xl font-bold text-gray-800 mb-4">
-          Welcome to ShopEasy
+          Welcome to Quaye's Haven
         </h1>
         <p className="text-xl text-gray-600 mb-8">
           Your one-stop shop for quality products at great prices
